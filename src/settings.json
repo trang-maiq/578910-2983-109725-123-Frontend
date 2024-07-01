@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation.",
+        "title": "Empower. Innovate. Elevate."
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Empower. Innovate. Elevate.",
+  "subtitle": "Discover the limitless potential of technology with Yay – Your gateway to inspiration and transformation."
+}
